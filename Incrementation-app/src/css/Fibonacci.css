@@ -1,0 +1,28 @@
+.didyouknow{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px;
+    border: 1px solid #0078d7;
+    border-radius: 8px;
+}
+
+.didyouknow p{
+    margin: 0;
+}
+
+.didyouknow-title{
+    font-weight: 700;
+}
+
+.didyouknow p a{
+    color: #0078d7;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.didyouknow p a:hover{
+    color: #084683;
+    text-decoration: underline;
+    transition: all 0.3s;
+}
