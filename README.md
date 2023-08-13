@@ -1,4 +1,4 @@
-# Incrementation
+# Incrementation ↗️
 
 Incrementation is a project app made for the coding exercise of [Scality](https://www.scality.com/)'s Front-end Engineer apprenticeship hiring process.
 
@@ -37,3 +37,5 @@ As the counter approaches a predefined threshold, a user-friendly alert to notif
 Upon crossing a secondary threshold, prevents further counter increments. µ
 
 Also provides a user-friendly explanation for this limitation.
+
+### Made by [Enzoait](https://www.github.com/Enzoait)
