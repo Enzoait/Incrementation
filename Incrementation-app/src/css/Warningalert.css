@@ -1,0 +1,13 @@
+.warning-box{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px ;
+    border: 1px solid #fce100;
+    border-radius: 8px;
+    width: 350px;
+}
+
+.warning-title{
+    color: #fce100
+}
