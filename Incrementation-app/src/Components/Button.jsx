@@ -66,7 +66,7 @@ export default function Button(){
                         null
                     }
                     <label>Click on the button to increase the current value.</label>
-                    <button className="button-incrementation" onClick={handleFunctions}>Increase Value</button>
+                    <button className="button-incrementation" onClick={handleFunctions}>Increase Value ↗</button>
                     <label className="info">ⓘ The threshold is set to {threshold}.</label>
                 </div>
             }
