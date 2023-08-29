@@ -1,8 +1,6 @@
 # Incrementation ↗️
 
-Incrementation is a project app made for the coding exercise of [Scality](https://www.scality.com/)'s Front-end Engineer apprenticeship hiring process.
-
-This project is coded in [React](https://react.dev/).
+Incrementation is a [React](https://react.dev/) application that features a counter with an increment button.
 
 ## Installation 
 
@@ -17,10 +15,6 @@ With [React](https://react.dev/) and [npm](https://docs.npmjs.com/downloading-an
 ```shell
 npm start
 ```
-
-## About
-
-This React application features a counter with an increment button.
 
 ## Features
 
